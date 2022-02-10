@@ -1,0 +1,13 @@
+body{
+	Font-family: Arial;
+	text-align: center;
+	Font-size: 18px;
+	padding:0px;
+	color: rgb(0, 255, 0);
+	}
+
+.responsive {
+	width: 100%;
+	height: auto;
+            }
+
