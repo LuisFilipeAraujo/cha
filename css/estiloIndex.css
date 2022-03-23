@@ -1,13 +1,36 @@
+
+
 body{
 	Font-family: Arial;
 	text-align: center;
 	Font-size: 18px;
 	padding:0px;
-	color: rgb(0, 255, 0);
+	color: rgb(3, 36, 3);
+	background-color: bisque;
 	}
 
 .responsive {
 	width: 100%;
 	height: auto;
             }
-
+nav {
+	text-align: center;
+	Font-size: 34px;
+	}
+	a:link, a:visited{
+		text-decoration:none;
+		color: rgb(12, 65, 7);
+		}
+		
+	a:active{
+		text-decoration: none;
+		color:rgb(0, 255, 0);
+		}
+		
+	a:hover {
+		text-decoration: underline; 
+		color: rgb(250, 249, 249);
+		font-size:101%;
+		background-color:rgb(0, 39, 18);
+		}
+	
