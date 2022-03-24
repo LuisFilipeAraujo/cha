@@ -1,5 +1,7 @@
 
-
+.tema{
+	font-size: clamp(1.75em, 1em + 3vw, 2.25em);
+} 
 body{
 	Font-family: Arial;
 	text-align: center;
